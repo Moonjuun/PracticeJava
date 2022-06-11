@@ -1,5 +1,5 @@
 package HonGongChapter.ch6;
-// 예제 6-1 클래스로부터 객체생성
+// 예제 6-1-1, 클래스로부터 객체생성
 
 public class StudentExample {
     public static void main(String args[]){
